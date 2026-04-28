@@ -30,6 +30,10 @@ Built an interactive HR Analytics dashboard using Excel to analyze employee attr
 - Analyzed compensation patterns by employee role
 - Generated insights to support retention and workforce planning strategies
 
+## Dataset used
+[HR_data.csv](https://github.com/user-attachments/files/27175042/HR_data.csv)
+
+
 ## Dashboard Preview
 <img width="1525" height="630" alt="Screenshot" src="https://github.com/user-attachments/assets/c39fc27e-85f3-4d55-9362-3e9e9e4b4452" />
 
