@@ -31,4 +31,5 @@ Built an interactive HR Analytics dashboard using Excel to analyze employee attr
 - Generated insights to support retention and workforce planning strategies
 
 ## Dashboard Preview
-(Add screenshots here)
+<img width="1525" height="630" alt="Screenshot" src="https://github.com/user-attachments/assets/c39fc27e-85f3-4d55-9362-3e9e9e4b4452" />
+
