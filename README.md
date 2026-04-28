@@ -1,2 +1,2 @@
 # hr-analytics-project
-HR Analytics Dashboard | Attrition, Salary &amp; Workforce Insights
+Excel HR Analytics Dashboard for Attrition Analysis, KPI Reporting and Workforce Insights
